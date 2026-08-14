@@ -2,7 +2,7 @@
   "name": "Agenda+",
   "short_name": "Agenda+",
   "description": "Seu app de agenda estudantil, pessoal e profissional",
-  "start_url": "/agenda-plus.html",
+  "start_url": "/Agenda/agenda-plus.html",
   "display": "standalone",
   "background_color": "#0D0F1A",
   "theme_color": "#0D0F1A",
@@ -21,5 +21,7 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "scope": "/Agenda/",
+  "id": "/Agenda/agenda-plus.html"
 }
