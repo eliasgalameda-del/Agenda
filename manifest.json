@@ -1,7 +1,7 @@
 {
-  "name": "Agenda+",
-  "short_name": "Agenda+",
-  "description": "Seu app de agenda estudantil, pessoal e profissional",
+  "name": "Tô no Corre",
+  "short_name": "Tô no Corre",
+  "description": "Sua agenda, no seu tempo!",
   "start_url": "/Agenda/",
   "display": "standalone",
   "background_color": "#0D0F1A",
